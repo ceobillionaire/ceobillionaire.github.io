@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.vincentboucher.com</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.vincentboucher.com/fr/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.vincentboucher.com/thesis/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.vincentboucher.com/institutions/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.vincentboucher.com/quebec-ai/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.vincentboucher.com/montreal-ai/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.vincentboucher.com/technical-record/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.vincentboucher.com/media/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.vincentboucher.com/provenance/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.vincentboucher.com/archive/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.vincentboucher.com/contact/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ceobillionaire.github.io/</loc><lastmod>2026-05-16</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://ceobillionaire.github.io/thesis/</loc><lastmod>2026-05-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ceobillionaire.github.io/institutions/</loc><lastmod>2026-05-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ceobillionaire.github.io/quebec-ai/</loc><lastmod>2026-05-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ceobillionaire.github.io/montreal-ai/</loc><lastmod>2026-05-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ceobillionaire.github.io/technical-record/</loc><lastmod>2026-05-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ceobillionaire.github.io/media/</loc><lastmod>2026-05-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ceobillionaire.github.io/provenance/</loc><lastmod>2026-05-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ceobillionaire.github.io/archive/</loc><lastmod>2026-05-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ceobillionaire.github.io/contact/</loc><lastmod>2026-05-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ceobillionaire.github.io/fr/</loc><lastmod>2026-05-16</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://ceobillionaire.github.io/fr/these/</loc><lastmod>2026-05-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ceobillionaire.github.io/fr/institutions/</loc><lastmod>2026-05-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ceobillionaire.github.io/fr/quebec-ai/</loc><lastmod>2026-05-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ceobillionaire.github.io/fr/montreal-ai/</loc><lastmod>2026-05-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ceobillionaire.github.io/fr/dossier-technique/</loc><lastmod>2026-05-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ceobillionaire.github.io/fr/medias/</loc><lastmod>2026-05-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ceobillionaire.github.io/fr/provenance/</loc><lastmod>2026-05-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ceobillionaire.github.io/fr/archive/</loc><lastmod>2026-05-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ceobillionaire.github.io/fr/contact/</loc><lastmod>2026-05-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ceobillionaire.github.io/fr/media/</loc><lastmod>2026-05-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
