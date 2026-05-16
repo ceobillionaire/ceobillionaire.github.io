@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.vincentboucher.com</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.vincentboucher.com/fr/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.vincentboucher.com/thesis/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.vincentboucher.com/institutions/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.vincentboucher.com/quebec-ai/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.vincentboucher.com/montreal-ai/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.vincentboucher.com/technical-record/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.vincentboucher.com/media/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.vincentboucher.com/provenance/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.vincentboucher.com/archive/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.vincentboucher.com/contact/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>
