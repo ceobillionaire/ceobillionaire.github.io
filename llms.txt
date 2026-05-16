@@ -1,0 +1,21 @@
+# VincentBoucher.com
+
+VincentBoucher.com is the public authority surface for Vincent Boucher, President of QUEBEC.AI and MONTREAL.AI.
+
+Core thesis: artificial intelligence is becoming strategic infrastructure; the decisive issue is capability under control — strategy, data, infrastructure, agents, evidence, governance, memory, and long-term value creation.
+
+Key routes:
+- https://ceobillionaire.github.io/
+- https://ceobillionaire.github.io/thesis/
+- https://ceobillionaire.github.io/quebec-ai/
+- https://ceobillionaire.github.io/montreal-ai/
+- https://ceobillionaire.github.io/technical-record/
+- https://ceobillionaire.github.io/media/
+- https://ceobillionaire.github.io/media-kit/
+- https://ceobillionaire.github.io/contact/
+- https://ceobillionaire.github.io/fr/
+
+QUEBEC.AI is a private corporation incorporated in Québec. It is not a Québec government entity. Public doctrine: Frontier. AI-First. Sovereign.
+
+Media/general: info@quebec.ai
+Executive/strategic: president@quebec.ai

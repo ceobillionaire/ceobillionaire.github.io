@@ -1,6 +1,7 @@
 {
-  "name": "Vincent Boucher — Presidential Authority Surface",
+  "name": "Vincent Boucher — Sovereign AI Authority Surface",
   "short_name": "Vincent Boucher",
+  "description": "Sovereign intelligence. Institutional command.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#fffaf0",
